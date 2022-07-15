@@ -1,0 +1,2 @@
+# netflix-clone
+🔥🔥 Nextjs, Typescript  🔥🔥
